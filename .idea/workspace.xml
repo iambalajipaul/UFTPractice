@@ -4,11 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f16d6ec-3225-4e50-9102-78f779b584e0" name="Changes" comment="" />
+    <list default="true" id="1f16d6ec-3225-4e50-9102-78f779b584e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RunResults/runresults.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RunResults/runresults.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RunResults/runresults.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RunResults/runresults.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UFTDeveloperAOS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appmodels/com/aos/automation/AOSModels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UFTDeveloperAOS/com/aos/automation/AOSModels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UFTDeveloperAOS/com/aos/automation/AOSModels.tsrx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UFTDeveloperAOS/com/aos/automation/RecordedTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UFTDeveloperAOS/com/aos/automation/UFTDeveloperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UFTDeveloperAOS/leanft.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UFTDeveloperAOS/unittesting/UnitTestClassBase$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UFTDeveloperAOS/unittesting/UnitTestClassBase$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UFTDeveloperAOS/unittesting/UnitTestClassBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/leanft.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aos/automation/AOSModels.tsrx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aos/automation/RecordedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aos/automation/UFTDeveloperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aos/automation/testFileforgit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittesting/UnitTestClassBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2gnbHAbQ0YCs8QkYPQUfAlUzddX" />
   <component name="ProjectViewState">
@@ -18,9 +47,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/bpaul/IdeaProjects/UFTDeveloperAOS",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bpaul\IdeaProjects\UFTDeveloperAOS" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="RecordedTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UFTDeveloperAOS" />
